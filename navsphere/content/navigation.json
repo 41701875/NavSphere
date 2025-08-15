@@ -112,6 +112,14 @@
           "description": "访问 www.xmwav.net",
           "icon": "/assets/favicon_1755260984079.png",
           "enabled": true
+        },
+        {
+          "id": "site_1755261080076_pi1iza53h",
+          "title": "动感酷音乐",
+          "href": "https://www.dgcol.com/",
+          "description": "访问 www.dgcol.com",
+          "icon": "/assets/favicon_1755261054212.png",
+          "enabled": true
         }
       ],
       "subCategories": []
