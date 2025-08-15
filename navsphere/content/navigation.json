@@ -99,6 +99,15 @@
       "enabled": true
     },
     {
+      "id": "1755260893998",
+      "title": "免费音乐下载",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "8",
       "title": "素材资源",
       "icon": "linecons-thumbs-up",
@@ -276,15 +285,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1755260893998",
-      "title": "免费音乐下载",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
