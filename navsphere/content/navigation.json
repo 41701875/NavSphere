@@ -104,7 +104,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1755261006613_gccaxonxt",
+          "title": "熊猫无损音乐",
+          "href": "https://www.xmwav.net/",
+          "description": "访问 www.xmwav.net",
+          "icon": "/assets/favicon_1755260984079.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
