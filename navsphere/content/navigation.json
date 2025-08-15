@@ -285,6 +285,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1755260924865",
+      "title": "系统下载",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
