@@ -276,6 +276,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1755260893998",
+      "title": "免费音乐下载",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
